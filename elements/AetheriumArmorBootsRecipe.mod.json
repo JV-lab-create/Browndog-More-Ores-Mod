@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AetheriumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AetheriumIngot"
+      },
+      {
+        "value": "CUSTOM:AetheriumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AetheriumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AetheriumArmor.boots"
+    },
+    "name": "aetherium_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

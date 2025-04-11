@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "browndog_ores:block/opal_block"
+    }
+  }
+}

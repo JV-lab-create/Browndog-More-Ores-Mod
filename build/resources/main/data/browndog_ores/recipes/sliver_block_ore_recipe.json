@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "browndog_ores:sliver_block"
+    }
+  ],
+  "result": {
+    "item": "browndog_ores:sliver_ingot",
+    "count": 9
+  }
+}

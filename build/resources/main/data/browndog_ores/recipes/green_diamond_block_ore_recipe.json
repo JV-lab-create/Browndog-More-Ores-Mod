@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "browndog_ores:green_diamond_block"
+    }
+  ],
+  "result": {
+    "item": "browndog_ores:green_diamond",
+    "count": 9
+  }
+}

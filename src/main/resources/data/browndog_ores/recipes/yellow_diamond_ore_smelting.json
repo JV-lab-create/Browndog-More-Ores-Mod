@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "browndog_ores:yellow_diamond_ore"
+  },
+  "result": "browndog_ores:yellow_diamond"
+}

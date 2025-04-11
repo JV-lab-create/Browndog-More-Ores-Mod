@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "browndog_ores:steel_ingot"
+    },
+    "1": {
+      "item": "browndog_ores:steel_ingot"
+    },
+    "2": {
+      "item": "browndog_ores:steel_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "browndog_ores:steel_pickaxe",
+    "count": 1
+  }
+}

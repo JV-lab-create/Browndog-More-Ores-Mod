@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "browndog_ores:nickel_block"
+    }
+  ],
+  "result": {
+    "item": "browndog_ores:nickel_ingot",
+    "count": 9
+  }
+}

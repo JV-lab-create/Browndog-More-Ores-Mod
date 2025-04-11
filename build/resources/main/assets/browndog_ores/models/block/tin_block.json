@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "browndog_ores:blocks/tin_ore_block",
+    "particle": "browndog_ores:blocks/tin_ore_block"
+  }
+}

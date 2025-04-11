@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.browndog.moreores.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+	"BrowndogOresModRepairItemRecipeMixin"  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}

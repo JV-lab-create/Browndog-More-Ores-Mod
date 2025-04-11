@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "browndog_ores:titanium_ingot"
+    },
+    "2": {
+      "item": "browndog_ores:titanium_ingot"
+    },
+    "3": {
+      "item": "browndog_ores:titanium_ingot"
+    },
+    "5": {
+      "item": "browndog_ores:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "browndog_ores:titanium_armor_boots",
+    "count": 1
+  }
+}

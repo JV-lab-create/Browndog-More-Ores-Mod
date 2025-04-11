@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "browndog_ores:lithium_block"
+    }
+  ],
+  "result": {
+    "item": "browndog_ores:lithium_ingot",
+    "count": 9
+  }
+}

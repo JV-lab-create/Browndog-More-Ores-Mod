@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "browndog_ores:blue_diamond"
+    },
+    "2": {
+      "item": "browndog_ores:blue_diamond"
+    },
+    "3": {
+      "item": "browndog_ores:blue_diamond"
+    },
+    "5": {
+      "item": "browndog_ores:blue_diamond"
+    }
+  },
+  "result": {
+    "item": "browndog_ores:blue_diamond_armor_boots",
+    "count": 1
+  }
+}

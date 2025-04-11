@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "browndog_ores:tin_ingot"
+    },
+    "1": {
+      "item": "browndog_ores:tin_ingot"
+    },
+    "2": {
+      "item": "browndog_ores:tin_ingot"
+    },
+    "3": {
+      "item": "browndog_ores:tin_ingot"
+    },
+    "4": {
+      "item": "browndog_ores:tin_ingot"
+    },
+    "5": {
+      "item": "browndog_ores:tin_ingot"
+    },
+    "6": {
+      "item": "browndog_ores:tin_ingot"
+    },
+    "7": {
+      "item": "browndog_ores:tin_ingot"
+    },
+    "8": {
+      "item": "browndog_ores:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "browndog_ores:tin_block",
+    "count": 1
+  }
+}

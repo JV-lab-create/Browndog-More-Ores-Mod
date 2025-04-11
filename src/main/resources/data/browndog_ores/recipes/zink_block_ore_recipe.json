@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "browndog_ores:zink_block"
+    }
+  ],
+  "result": {
+    "item": "browndog_ores:zink_ingot",
+    "count": 9
+  }
+}

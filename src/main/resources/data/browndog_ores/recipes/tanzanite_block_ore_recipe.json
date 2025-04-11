@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "browndog_ores:tanzanite_block"
+    }
+  ],
+  "result": {
+    "item": "browndog_ores:tanzanite",
+    "count": 9
+  }
+}

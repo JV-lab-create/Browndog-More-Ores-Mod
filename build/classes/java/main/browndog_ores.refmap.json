@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/browndog/moreores/mixins/BrowndogOresModRepairItemRecipeMixin": {
+      "assemble": "Lnet/minecraft/class_4317;method_20807(Lnet/minecraft/class_1715;)Lnet/minecraft/class_1799;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/browndog/moreores/mixins/BrowndogOresModRepairItemRecipeMixin": {
+        "assemble": "Lnet/minecraft/class_4317;method_20807(Lnet/minecraft/class_1715;)Lnet/minecraft/class_1799;"
+      }
+    }
+  }
+}

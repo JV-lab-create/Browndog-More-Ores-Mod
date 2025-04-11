@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "browndog_ores:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "browndog_ores:sapphire",
+    "count": 9
+  }
+}

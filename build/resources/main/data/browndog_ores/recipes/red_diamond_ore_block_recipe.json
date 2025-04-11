@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "browndog_ores:red_diamond"
+    },
+    "1": {
+      "item": "browndog_ores:red_diamond"
+    },
+    "2": {
+      "item": "browndog_ores:red_diamond"
+    },
+    "3": {
+      "item": "browndog_ores:red_diamond"
+    },
+    "4": {
+      "item": "browndog_ores:red_diamond"
+    },
+    "5": {
+      "item": "browndog_ores:red_diamond"
+    },
+    "6": {
+      "item": "browndog_ores:red_diamond"
+    },
+    "7": {
+      "item": "browndog_ores:red_diamond"
+    },
+    "8": {
+      "item": "browndog_ores:red_diamond"
+    }
+  },
+  "result": {
+    "item": "browndog_ores:red_diamond_block",
+    "count": 1
+  }
+}

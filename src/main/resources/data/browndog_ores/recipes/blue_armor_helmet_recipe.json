@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "browndog_ores:blue"
+    },
+    "1": {
+      "item": "browndog_ores:blue"
+    },
+    "2": {
+      "item": "browndog_ores:blue"
+    },
+    "3": {
+      "item": "browndog_ores:blue"
+    },
+    "5": {
+      "item": "browndog_ores:blue"
+    }
+  },
+  "result": {
+    "item": "browndog_ores:blue_armor_helmet",
+    "count": 1
+  }
+}

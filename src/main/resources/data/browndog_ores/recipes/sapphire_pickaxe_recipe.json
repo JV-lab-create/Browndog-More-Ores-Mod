@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "browndog_ores:sapphire"
+    },
+    "1": {
+      "item": "browndog_ores:sapphire"
+    },
+    "2": {
+      "item": "browndog_ores:sapphire"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "browndog_ores:sapphire_pickaxe",
+    "count": 1
+  }
+}

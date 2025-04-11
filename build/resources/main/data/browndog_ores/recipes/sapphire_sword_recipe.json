@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "browndog_ores:sapphire"
+    },
+    "1": {
+      "item": "browndog_ores:sapphire"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "browndog_ores:sapphire_sword",
+    "count": 1
+  }
+}

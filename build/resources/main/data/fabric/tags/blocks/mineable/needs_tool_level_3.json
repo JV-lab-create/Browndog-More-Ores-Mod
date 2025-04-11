@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "browndog_ores:lithium_ore",
+    "browndog_ores:lithium_block"
+  ]
+}

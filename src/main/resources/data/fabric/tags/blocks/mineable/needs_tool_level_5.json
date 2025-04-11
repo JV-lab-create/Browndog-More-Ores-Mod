@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "browndog_ores:steel_ore",
+    "browndog_ores:steel_block",
+    "browndog_ores:orange_diamond_ore",
+    "browndog_ores:orange_diamond_block"
+  ]
+}
