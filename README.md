@@ -34,6 +34,16 @@ A Minecraft mod that add more ores to the game! Made in MCreator.
 
 (Ore Tables are used to craft ores)
 
+## Ingot Template
+
+![Screenshot 2025-04-11 231425](https://github.com/user-attachments/assets/045747dd-f856-4777-8253-b375eeaa672b)
+
+## Diamond/Gem Template
+
+![Screenshot 2025-04-11 231522](https://github.com/user-attachments/assets/7e1ae4cf-6d6d-4951-9715-85702f31bba0)
+
+These are used for the crafting ores
+
 # Licance
 This mod is under the  ``MIT`` Licance
 
